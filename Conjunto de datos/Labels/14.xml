@@ -1,0 +1,37 @@
+<annotation>
+	<folder>pollos</folder>
+	<filename>14.JPG</filename>
+	<path>/pollos/14.JPG</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>2272</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Pollos</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2379</xmin>
+			<ymin>862</ymin>
+			<xmax>3949</xmax>
+			<ymax>2272</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Pollos</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1267</xmin>
+			<ymin>48</ymin>
+			<xmax>2968</xmax>
+			<ymax>1570</ymax>
+		</bndbox>
+	</object>
+</annotation>
