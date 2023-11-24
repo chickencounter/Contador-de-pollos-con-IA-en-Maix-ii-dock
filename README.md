@@ -1,4 +1,4 @@
-# Contador-de-pollos-con-IA-en-Maix-ii-dot
+# Contador-de-pollos-con-IA-en-Maix-ii-dock
 Automatizacion del Conteo de Pollos en el Sector Avicola Usando Imagenes e Inteligencia Artificial
 
 Con este proyecto de investigación se desea automatizar e implementar un sistema basado en la inteligencia artificial y el procesamiento de imágenes para el conteo de pollos en la industria avícola. La creciente demanda global de carne de pollo ha impulsado la necesidad de una producción más eficiente y precisa. Uno de los aspectos críticos en esta cadena de producción es el conteo de pollos en los galpones. Tradicionalmente, esta tarea se ha realizado de forma manual, lo que resulta en un proceso tedioso y propenso a errores. Este enfoque manual no solo es ineficiente en cuanto a tiempo y recursos, sino que también conlleva el riesgo de pérdidas económicas debido a conteos inexactos y, lo que es más importante, afecta negativamente el bienestar de las aves. 
