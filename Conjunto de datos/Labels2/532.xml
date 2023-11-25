@@ -1,0 +1,37 @@
+<annotation>
+	<folder>p</folder>
+	<filename>532.JPG</filename>
+	<path>/p/532.JPG</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>2272</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Pollos</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1142</xmin>
+			<ymin>128</ymin>
+			<xmax>3139</xmax>
+			<ymax>2063</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Pollos</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3229</xmin>
+			<ymin>0</ymin>
+			<xmax>4032</xmax>
+			<ymax>1863</ymax>
+		</bndbox>
+	</object>
+</annotation>

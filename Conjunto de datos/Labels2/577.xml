@@ -1,0 +1,25 @@
+<annotation>
+	<folder>p</folder>
+	<filename>577.JPG</filename>
+	<path>/p/577.JPG</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>2272</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Pollos</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>0</xmin>
+			<ymin>0</ymin>
+			<xmax>2136</xmax>
+			<ymax>1897</ymax>
+		</bndbox>
+	</object>
+</annotation>
