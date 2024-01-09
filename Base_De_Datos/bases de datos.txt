@@ -1,0 +1,7 @@
+https://universe.roboflow.com/charan-7q0md/chickens-a4wpd/dataset/63
+https://universe.roboflow.com/project106/new_chicken-detection/dataset/1
+https://universe.roboflow.com/object-y7mtx/poussin2/dataset/1
+https://universe.roboflow.com/sirindhorn-collage/chickenfinder2/dataset/8
+https://universe.roboflow.com/mpt-course-6erck/chicken-detection-uv72o/dataset/2
+https://universe.roboflow.com/nosiji/chicken-project/dataset/1
+
